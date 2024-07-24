@@ -20,9 +20,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FraMqueli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/FraMqueli/FraMqueli/output/snake.svg" alt="Snake animation" />
+<img src="https://th.bing.com/th/id/R.7b83b010c1b941aad40ecacd7bad6520?rik=kXuhpdMQN73vYQ&riu=http%3a%2f%2fi0.kym-cdn.com%2fphotos%2fimages%2foriginal%2f001%2f055%2f436%2f1e4.gif&ehk=2ZLoHo%2fm%2flU7m%2bULWQoQNJBiACunC05s1uoVHiIkPzI%3d&risl=&pid=ImgRaw&r=0"/>
 
 ### 📝 Últimas [Ideas](https://tu_blog)
 - [Título del artículo 1](https://tu_blog/articulo1)
@@ -30,3 +29,5 @@
 - [Título del artículo 3](https://tu_blog/articulo3)
 - [Título del artículo 4](https://tu_blog/articulo4)
 - [Título del artículo 5](https://tu_blog/articulo5)
+
+

@@ -23,8 +23,6 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de Framqueli" height="23px" width="23px" />
 </p>
 
-<br clear="both">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FraMqueli/FraMqueli/output/snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+    <img src="https://media1.tenor.com/m/qVgrRXyFfeYAAAAd/toji-fushiguro-toji-zenin.gif"/>
+</div>

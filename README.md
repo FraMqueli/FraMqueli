@@ -1,5 +1,4 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/127222352?s=400&u=dec40d63109a3792ab178b51068e7d9e40b8fab2&v=4" style="border-radius: 50%;" />
    <h3 align="center"> Framqueli 👨🏻‍💻</h3>
 </p>
 

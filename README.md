@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FraMqueli/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FraMqueli/FraMqueli/output/snake.svg" alt="Snake animation" />
 
 ### 📝 Últimas [Ideas](https://tu_blog)
 - [Título del artículo 1](https://tu_blog/articulo1)

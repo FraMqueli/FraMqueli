@@ -22,3 +22,76 @@
   <a href="https://instagram.com/tu_canal" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de Framqueli" height="23px" width="23px" />
 </p>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake Animation</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #333;
+        }
+
+        .snake {
+            display: flex;
+            position: relative;
+        }
+
+        .snake div {
+            width: 20px;
+            height: 20px;
+            background-color: lime;
+            margin: 2px;
+            border-radius: 50%;
+            animation: move 2s linear infinite;
+        }
+
+        @keyframes move {
+            0% {
+                transform: translate(0, 0);
+            }
+            25% {
+                transform: translate(100px, 0);
+            }
+            50% {
+                transform: translate(100px, 100px);
+            }
+            75% {
+                transform: translate(0, 100px);
+            }
+            100% {
+                transform: translate(0, 0);
+            }
+        }
+
+        .snake div:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .snake div:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+
+        .snake div:nth-child(4) {
+            animation-delay: 0.6s;
+        }
+
+        .snake div:nth-child(5) {
+            animation-delay: 0.8s;
+        }
+    </style>
+</head>
+<body>
+    <div class="snake">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</body>

@@ -25,10 +25,9 @@
 - 🎓 <b>Estudiante de Ingeniería Civil en Computación</b> en la Pontificia Universidad Católica de Chile<br>
   - Mayor en Ingeniería Física<br>
 - 💻 <b>Desarrollador Full Stack</b> especializado en Django, AWS y bases de datos SQL<br>
-- 🧠 <b>Investigador en computación cuántica y machine learning</b><br>
+- 🧠 <b>Aspirante a investigador en computación cuántica y machine learning</b><br>
   - Enfoque en modelos de optimización y predicción<br>
 - 📡 <b>Experiencia sólida en modelación matemática y simulación numérica</b><br>
-- 🔭 Actualmente investigando diseño de redes neuronales parametrizadas unitarias para aplicaciones cuánticas
 </p>
 
 ---
@@ -108,10 +107,9 @@
 - Implementación de un modelo de deep learning para predecir densidades de plasma<br>
 - Procesamiento y análisis de señales interferométricas complejas<br>
 - Reducción del error de predicción en un 40% comparado con métodos tradicionales<br>
-- Publicación de resultados en conferencia internacional (en proceso)
 </p>
 
-<h3>🔹 Sistema de Procesamiento de Imágenes Médicas</h3>
+<h3>🔹 Sistema de Procesamiento de Imágenes</h3>
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
@@ -120,8 +118,7 @@
 <p align="center">
 - Desarrollo de algoritmos avanzados de segmentación, filtrado y reconstrucción<br>
 - Implementación de técnicas de reducción de ruido y mejora de contraste<br>
-- Optimización de rendimiento para procesamiento en tiempo real<br>
-- Validación con conjuntos de datos estándar en el campo médico
+- Optimización de rendimiento para procesamiento<br>
 </p>
 
 ---

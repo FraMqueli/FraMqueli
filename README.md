@@ -69,7 +69,7 @@
 
 <h2>📊 Proyectos Destacados</h2>
 
-<h3>🔹 <a href="https://brilift.cl">Brilift.cl</a> | E-commerce & Sistema de Administración</h3>
+<h3>🔹 <a href="https://brilift.cl">Brilift.cl</a> | E-commerce - Venta y arriendo de articulos de elevación para trabajos de construcción </h3>
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
@@ -83,7 +83,7 @@
 - Infraestructura escalable en AWS con balanceo de carga y respaldos automatizados
 </p>
 
-<h3>🔹 <a href="https://ecogab.cl">Ecogab.cl</a> | Plataforma de Comercio Sostenible</h3>
+<h3>🔹 <a href="https://ecogab.cl">Ecogab.cl</a> |  E-commerce - Venta y arriendo de articulos de construcción </h3>
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>

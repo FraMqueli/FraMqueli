@@ -106,7 +106,6 @@
 <p align="center">
 - Implementación de un modelo de deep learning para predecir densidades de plasma<br>
 - Procesamiento y análisis de señales interferométricas complejas<br>
-- Reducción del error de predicción en un 40% comparado con métodos tradicionales<br>
 </p>
 
 <h3>🔹 Sistema de Procesamiento de Imágenes</h3>
@@ -123,12 +122,19 @@
 
 ---
 
-<h2>📈 Métricas y Contribuciones</h2>
+## 📈 Métricas y Contribuciones
 
 <p align="center">
-  <a href="https://github.com/FraMqueli"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FraMqueli&theme=dracula&hide_border=true" alt="GitHub Streak"/></a>
+  <a href="https://github.com/FraMqueli">
+    <img src="https://github-readme-stats.vercel.app/api?username=FraMqueli&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/FraMqueli">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=FraMqueli&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 ---
 
 <h2>📫 Contacto</h2>

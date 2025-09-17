@@ -140,7 +140,7 @@
 <h2>📫 Contacto</h2>
 
 <p align="center">
-📧 <b>Email:</b> <a href="mailto:fmontalba@uc.cl">fmontalba@uc.cl</a><br>
+📧 <b>Email:</b> <a href="mailto:flmontalba@uc.cl">flmontalba@uc.cl</a><br>
 💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/franco-montalba-leal-b854022a1">Franco Montalba Leal</a><br>
 🎥 <b>YouTube:</b> <a href="https://www.youtube.com/channel/UCkFV8dmKlR0swj3y7oRTXCA">FraMqueli</a><br>
 📍 <b>Ubicación:</b> Santiago, Chile
